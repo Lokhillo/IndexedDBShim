@@ -14,3 +14,4 @@
         <file src="dist\indexeddbshim.min.js.map" target="content\Scripts\indexeddbshim.min.js.map" />
     </files>
 </package>
+ 
